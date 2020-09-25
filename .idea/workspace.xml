@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba9b4d43-268f-4e7c-90af-5ec459796a22" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/browser-kit" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/inputmask" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/punycode" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/bootstrap" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/jquery" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/yii2-pjax" />
+      <path value="$PROJECT_DIR$/vendor/behat/gherkin" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/php-diff" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/codeception/codeception" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-composer" />
+      <path value="$PROJECT_DIR$/vendor/cebe/markdown" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-bootstrap" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-debug" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-gii" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-faker" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/codeception/module-yii2" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/codeception/lib-asserts" />
+      <path value="$PROJECT_DIR$/vendor/codeception/verify" />
+      <path value="$PROJECT_DIR$/vendor/codeception/lib-innerbrowser" />
+      <path value="$PROJECT_DIR$/vendor/codeception/module-asserts" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/codeception/stub" />
+      <path value="$PROJECT_DIR$/vendor/codeception/module-filesystem" />
+      <path value="$PROJECT_DIR$/vendor/codeception/phpunit-wrapper" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/ezyang/htmlpurifier" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/yidas/yii2-jquery" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1hGrZEnYnsCrA0kwfevXVMgFfPO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="ToolWindowDuplicates.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/backend/web/assets" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/console/controllers" />
+      <recent name="$PROJECT_DIR$/frontend/web/assets" />
+      <recent name="$PROJECT_DIR$/common/models" />
+      <recent name="$PROJECT_DIR$/frontend/views/site" />
+      <recent name="$PROJECT_DIR$/frontend/models" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/backend/web/assets" />
+      <recent name="$PROJECT_DIR$/frontend/models" />
+      <recent name="$PROJECT_DIR$/frontend/views/site" />
+      <recent name="$PROJECT_DIR$/backend/views/site" />
+      <recent name="$PROJECT_DIR$/console/migrations" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="codeception.yml" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings scope="ConfigurationFile" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba9b4d43-268f-4e7c-90af-5ec459796a22" name="Default Changelist" comment="" />
+      <created>1599648323153</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599648323153</updated>
+      <workItem from="1599648324275" duration="48199000" />
+      <workItem from="1600078900048" duration="115299000" />
+      <workItem from="1600868002953" duration="24909000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="694" y="334" width="524" height="393" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599729282431">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state x="694" y="334" width="524" height="393" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1054/1920.30.1680.1050@0.0.1920.1054" timestamp="1599729282431" />
+    <state x="760" y="214" width="391" height="632" key="#com.intellij.ide.util.MemberChooser" timestamp="1600348095707">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state x="760" y="214" width="391" height="632" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1054/1920.30.1680.1050@0.0.1920.1054" timestamp="1600348095707" />
+    <state x="809" y="0" width="1103" height="1054" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1600957684780">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state x="809" y="0" width="1103" height="1054" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1054/1920.30.1680.1050@0.0.1920.1054" timestamp="1600957684780" />
+    <state x="2832" y="30" width="760" height="1050" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1054/1920.30.1680.1050@1920.30.1680.1050" timestamp="1599662630885" />
+    <state x="693" y="285" width="526" height="490" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1600871302778">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state x="693" y="285" width="526" height="490" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1054/1920.30.1680.1050@0.0.1920.1054" timestamp="1600871302778" />
+    <state x="743" y="285" width="426" height="490" key="FileChooserDialogImpl" timestamp="1599648335274">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state x="743" y="285" width="426" height="490" key="FileChooserDialogImpl/0.0.1920.1054/1920.30.1680.1050@0.0.1920.1054" timestamp="1599648335274" />
+    <state x="997" y="327" width="496" height="549" key="NewPhpClassDialog" timestamp="1600691167405">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state x="997" y="327" width="496" height="549" key="NewPhpClassDialog/0.0.1920.1054/1920.30.1680.1050@0.0.1920.1054" timestamp="1600691167405" />
+    <state x="809" y="454" width="358" height="153" key="NewPhpFileDialog" timestamp="1600943851690">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state x="809" y="454" width="358" height="153" key="NewPhpFileDialog/0.0.1920.1054/1920.30.1680.1050@0.0.1920.1054" timestamp="1600943851690" />
+    <state x="456" y="162" width="1007" height="736" key="SettingsEditor" timestamp="1600084375389">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state x="456" y="162" width="1007" height="736" key="SettingsEditor/0.0.1920.1054/1920.30.1680.1050@0.0.1920.1054" timestamp="1600084375389" />
+    <state x="570" y="141" width="772" height="779" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1600430505820">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state x="570" y="141" width="772" height="779" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1054/1920.30.1680.1050@0.0.1920.1054" timestamp="1600430505820" />
+    <state x="1955" y="30" width="1391" height="1017" key="dock-window-1" timestamp="1600870364162">
+      <screen x="1920" y="30" width="1680" height="1050" />
+    </state>
+    <state x="1955" y="30" width="1391" height="1017" key="dock-window-1/0.0.1920.1054/1920.30.1680.1050@0.0.1920.1054" timestamp="1600870364162" />
+    <state x="1920" y="30" width="1401" height="1017" key="dock-window-10" timestamp="1600430325931">
+      <screen x="1920" y="30" width="1680" height="1050" />
+    </state>
+    <state x="1920" y="30" width="1401" height="1017" key="dock-window-10/0.0.1920.1054/1920.30.1680.1050@0.0.1920.1054" timestamp="1600430325931" />
+    <state x="1920" y="30" width="1401" height="1017" key="dock-window-11" timestamp="1600688310870">
+      <screen x="1920" y="30" width="1680" height="1050" />
+    </state>
+    <state x="1920" y="30" width="1401" height="1017" key="dock-window-11/0.0.1920.1054/1920.30.1680.1050@0.0.1920.1054" timestamp="1600688310870" />
+    <state x="2199" y="30" width="1401" height="1017" key="dock-window-12" timestamp="1600697684097">
+      <screen x="1920" y="30" width="1680" height="1050" />
+    </state>
+    <state x="2199" y="30" width="1401" height="1017" key="dock-window-12/0.0.1920.1054/1920.30.1680.1050@0.0.1920.1054" timestamp="1600697684097" />
+    <state x="1965" y="30" width="1401" height="1017" key="dock-window-13" timestamp="1600697684097">
+      <screen x="1920" y="30" width="1680" height="1050" />
+    </state>
+    <state x="1965" y="30" width="1401" height="1017" key="dock-window-13/0.0.1920.1054/1920.30.1680.1050@0.0.1920.1054" timestamp="1600697684097" />
+    <state x="310" y="47" width="1401" height="1017" key="dock-window-14" timestamp="1600779577683">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state x="310" y="47" width="1401" height="1017" key="dock-window-14/0.0.1920.1054/1920.30.1680.1050@0.0.1920.1054" timestamp="1600779577683" />
+    <state x="2003" y="30" width="1391" height="1017" key="dock-window-2" timestamp="1600871303409">
+      <screen x="1920" y="30" width="1680" height="1050" />
+    </state>
+    <state x="2003" y="30" width="1391" height="1017" key="dock-window-2/0.0.1920.1054/1920.30.1680.1050@0.0.1920.1054" timestamp="1600871303409" />
+    <state x="2209" y="30" width="1391" height="1017" key="dock-window-3" timestamp="1600957753367">
+      <screen x="1920" y="30" width="1680" height="1050" />
+    </state>
+    <state x="2209" y="30" width="1391" height="1017" key="dock-window-3/0.0.1920.1054/1920.30.1680.1050@0.0.1920.1054" timestamp="1600957753367" />
+    <state x="2005" y="30" width="1391" height="1017" key="dock-window-4" timestamp="1600958645623">
+      <screen x="1920" y="30" width="1680" height="1050" />
+    </state>
+    <state x="2005" y="30" width="1391" height="1017" key="dock-window-4/0.0.1920.1054/1920.30.1680.1050@0.0.1920.1054" timestamp="1600958645623" />
+    <state x="2046" y="30" width="1391" height="1017" key="dock-window-5" timestamp="1600959204920">
+      <screen x="1920" y="30" width="1680" height="1050" />
+    </state>
+    <state x="2046" y="30" width="1391" height="1017" key="dock-window-5/0.0.1920.1054/1920.30.1680.1050@0.0.1920.1054" timestamp="1600959204920" />
+    <state x="1920" y="30" width="1391" height="1017" key="dock-window-6" timestamp="1600959278391">
+      <screen x="1920" y="30" width="1680" height="1050" />
+    </state>
+    <state x="1920" y="30" width="1391" height="1017" key="dock-window-6/0.0.1920.1054/1920.30.1680.1050@0.0.1920.1054" timestamp="1600959278391" />
+    <state x="519" y="196" width="1401" height="1017" key="dock-window-7" timestamp="1600351827555">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state x="519" y="196" width="1401" height="1017" key="dock-window-7/0.0.1920.1054/1920.30.1680.1050@0.0.1920.1054" timestamp="1600351827555" />
+    <state x="1967" y="30" width="1401" height="1017" key="dock-window-8" timestamp="1600353334500">
+      <screen x="1920" y="30" width="1680" height="1050" />
+    </state>
+    <state x="1967" y="30" width="1401" height="1017" key="dock-window-8/0.0.1920.1054/1920.30.1680.1050@0.0.1920.1054" timestamp="1600353334500" />
+    <state x="1920" y="30" width="1401" height="1017" key="dock-window-9" timestamp="1600353334500">
+      <screen x="1920" y="30" width="1680" height="1050" />
+    </state>
+    <state x="1920" y="30" width="1401" height="1017" key="dock-window-9/0.0.1920.1054/1920.30.1680.1050@0.0.1920.1054" timestamp="1600353334500" />
+    <state x="534" y="161" width="1110" height="732" key="find.popup" timestamp="1600957697442">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state x="534" y="161" width="1110" height="732" key="find.popup/0.0.1920.1054/1920.30.1680.1050@0.0.1920.1054" timestamp="1600957697442" />
+    <state x="623" y="239" key="run.anything.popup" timestamp="1599827373901">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state x="623" y="239" key="run.anything.popup/0.0.1920.1054/1920.30.1680.1050@0.0.1920.1054" timestamp="1599827373901" />
+    <state x="623" y="232" width="672" height="678" key="search.everywhere.popup" timestamp="1600959631926">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state x="623" y="232" width="672" height="678" key="search.everywhere.popup/0.0.1920.1054/1920.30.1680.1050@0.0.1920.1054" timestamp="1600959631926" />
+  </component>
+</project>
